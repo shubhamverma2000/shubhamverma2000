@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **E-Commerce Website**
 
-- 🌱 I’m currently learning **React.js, Node.js**
+- 🌱 I’m currently learning **Spring Boot**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 💬 Ask me about **React, JavaScript, Core java, Python**
+- 💬 Ask me about **React, JavaScript, Java, Python**
 
 - 📫 How to reach me **vermashubham0608@gmail.com**
 
