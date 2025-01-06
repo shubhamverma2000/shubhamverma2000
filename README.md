@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **FullStack Projects**
 
-- 💬 Ask me about **React, JavaScript, Java, Python**
+- 💬 Ask me about **Spring boot, React, JavaScript, Java, Python**
 
 - 📫 How to reach me **vermashubham0608@gmail.com**
 
